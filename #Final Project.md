@@ -1,6 +1,6 @@
- #Final Project  
+ # Final Project  
 
-##Introduction to IT
+## Introduction to IT
 
 > ​			Hello my name is *Jexter* and I am an **IT** major at Mizzou. I love playing **DotA 2**, you can visit [DotA 2 Leaderboards](http://www.dota2.com/leaderboards#americas-0) to check the top players of the game and you can see my name **kutsinta** somewhere on the list. I also love watching anime and here's two pictures of my favorite one.
 >
