@@ -7,3 +7,7 @@
 ![](https://github.com/erandioj/FinalProject/blob/master/Slam-Dunk.jpg?raw=true)
 
 ![](https://github.com/erandioj/FinalProject/blob/master/demon-slayer-poster-1163650.jpeg?raw=true)
+
+![](https://www.pashplus.jp/en/wp-content/uploads/koenokatati20160527_ma.jpg)
+
+![](https://atmafunomena.files.wordpress.com/2016/11/yande-re-371758-kimi_no_na_wa-landscape-miyamizu_mitsuha-seifuku-shinkai_makoto-tachibana_taki-2.jpg)
